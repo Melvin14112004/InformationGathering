@@ -23,6 +23,27 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
+### WHOIS:
+![alt text](a.png)
+
+### IP2LOCATION:
+![alt text](b.png)
+
+### PING:
+![alt text](c.png)
+
+### WEB ARCHIVE:
+![alt text](d.png)
+
+### NMAP:
+![alt text](e.png)
+
+### WHATWEB:
+![alt text](F.png)
+
+### TRACEROUTE:
+![alt text](G.png)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
